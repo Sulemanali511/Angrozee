@@ -1,0 +1,6 @@
+framework module Pods_agora_agoraUITests {
+  umbrella header "Pods-agora-agoraUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
